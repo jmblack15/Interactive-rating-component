@@ -54,7 +54,7 @@ body {
   justify-content: space-between;
 }
 
-.button,
+.buttons,
 .card-ranking-image {
   width           : 40px;
   height          : 40px;
@@ -66,13 +66,13 @@ body {
   color           : var(--color-medium-grey);
 }
 
-.button:hover {
+.buttons:hover {
   background-color: var(--color-primary);
   cursor          : pointer;
   color           : var(--color-white);
 }
 
-.button:focus {
+.buttons-focus {
   background-color: var(--color-light-grey);
   color           : var(--color-white);
 }
