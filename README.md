@@ -29,7 +29,6 @@ Users should be able to:
 
 ![fireShot](https://i.ibb.co/CMtnDRP/Interactive-rating-component.png)
 
-
 ### Links
 
 - Solution URL: [Code](https://github.com/jmblack15/Interactive-rating-component)
